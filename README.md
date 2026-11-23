@@ -7,6 +7,7 @@
   <a href="https://swap.dogstarter.dog"><b>DogSwap DEX</b></a> ·
   <a href="https://t.me/dogstarter">Telegram channel</a> ·
   <a href="https://t.me/dogstarter_dog">Community</a> ·
+  <a href="https://x.com/dogstarterhq">X</a> ·
   <a href="mailto:contact@dogstarter.dog">Contact</a>
 </p>
 
